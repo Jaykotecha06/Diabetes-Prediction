@@ -1,2 +1,2 @@
 # Diabetes-Prediction
-Machine Learning Project
+## Machine Learning Project
